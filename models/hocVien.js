@@ -1,5 +1,5 @@
 //Chau created this
 function hocVien() {
-  this.maSV = ""
-  this.ten = ""
+  this.maSV = "";
+  this.ten = "";
 }
